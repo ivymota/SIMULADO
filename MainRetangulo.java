@@ -11,7 +11,7 @@ public class MainRetangulo {
         if(a.isQuadrado())
             System.out.println("É quadrado");
         else
-            System.out.println("Não é quadrado");
+            System.out.println("Não é quadrado"); 
     }
 
 }
